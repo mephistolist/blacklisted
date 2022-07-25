@@ -14,14 +14,14 @@ This code I created to automate the task of looking up ips to confirm if they ar
 
 After this you should receive something simliar to the following:
 
-67.160.42.207 Blacklisted
-189.167.244.72 Blacklisted
-69.162.124.228 Ok
-192.243.55.134 Blacklisted
-192.243.55.131 Blacklisted
-192.243.55.130 Blacklisted
-69.20.52.200 Ok
-54.210.21.184 Blacklisted
+67.160.42.207 Blacklisted<br>
+189.167.244.72 Blacklisted<br>
+69.162.124.228 Ok<br>
+192.243.55.134 Blacklisted<br>
+192.243.55.131 Blacklisted<br>
+192.243.55.130 Blacklisted<br>
+69.20.52.200 Ok<br>
+54.210.21.184 Blacklisted<br>
 
 Reference links for blacklisted ips:
 
