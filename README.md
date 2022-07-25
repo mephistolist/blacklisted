@@ -25,12 +25,12 @@ After this you should receive something simliar to the following:
 
 Reference links for blacklisted ips:
 
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a67.160.42.207&run=toolpage
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a189.167.244.72&run=toolpage
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.134&run=toolpage
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.131&run=toolpage
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.130&run=toolpage
-https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a54.210.21.184&run=toolpage
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a67.160.42.207&run=toolpage<br>
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a189.167.244.72&run=toolpage<br>
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.134&run=toolpage<br>
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.131&run=toolpage<br>
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.130&run=toolpage<br>
+https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a54.210.21.184&run=toolpage<br>
 
 An error message will be displayed if data was entered blank or incorrectly.
 
