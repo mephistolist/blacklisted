@@ -33,3 +33,7 @@ https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a192.243.55.130&run=toolp
 https://mxtoolbox.com/SuperTool.aspx?action=blacklist%3a54.210.21.184&run=toolpage
 
 An error message will be displayed if data was entered blank or incorrectly.
+
+To run this code you just need to add execute permissions like this:
+
+$ chmod +x blacklisted.py
