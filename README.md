@@ -34,3 +34,5 @@ An error message will be displayed if data was entered blank or incorrectly.
 To run this code you just need to add execute permissions like this:
 
 $ chmod +x blacklisted.py
+
+Some may wonder why threads were not employed to speed up the execution. While this could have been done, I imagine it may overload MXToolbox, or at least get someone blocked for too many connections too quickly. Regardless, this tool should be a time saving as you can let it do the work and walk away vs inputing every ip to MXToolbox individually. 
