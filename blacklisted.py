@@ -39,8 +39,6 @@ print(' ')
 
 print(colored('                 Ascii Banner Redacted              \n','red'))
 
-#raw_input("Press Enter to continue with entering ips...")
-
 input("Press Enter to continue with entering ips...")
 
 # Create a random named temp file and open it in vi to paste ips to.
@@ -95,3 +93,9 @@ except IOError:
     print("An I/O Error occured with temp file.\n") 
 
 os.system("rm $test_tmp >/dev/null")
+
+def main():
+    mxget()
+
+if __name__ == '__main__':
+    main()
